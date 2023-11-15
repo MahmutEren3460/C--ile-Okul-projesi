@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\bin\Debug\Okul_proje.exe.config
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\bin\Debug\Okul_proje.exe
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\bin\Debug\Okul_proje.pdb
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\obj\Debug\Okul_proje.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\obj\Debug\Okul_proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\obj\Debug\Okul_proje.Form1.resources
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\obj\Debug\Okul_proje.Properties.Resources.resources
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\obj\Debug\Okul_proje.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\obj\Debug\Okul_proje.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\obj\Debug\Okul_proje.exe
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\obj\Debug\Okul_proje.pdb
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\obj\Debug\Okul_proje.FormOgrenciNotlar.resources
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\obj\Debug\Okul_proje.FormOgretmen.resources
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\obj\Debug\Okul_proje.FormKulup.resources
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\obj\Debug\Okul_proje.FormDersIsleri.resources
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\obj\Debug\Okul_proje.FormOgrenciIsleri.resources
+C:\Users\user\Desktop\c# dersleri\Okul_proje\Okul_proje\obj\Debug\Okul_proje.FormSinavNotlari.resources
